@@ -18,7 +18,7 @@ To check that your GCC tools are correctly installed and available, open a new C
 g++ --version
 gdb --version
 ```
-> **Note**: If you don't see the expected output or g++ or gdb is not a recognized command. Make sure you followed the instructions on the [tdm-gcc website](https://jmeubank.github.io/tdm-gcc/) to install GCC.
+> **Note**: If you don't see the expected output or `g++ or gdb is not a recognized command`. Make sure you followed the instructions on the [tdm-gcc website](https://jmeubank.github.io/tdm-gcc/) to install GCC.
 
 ## Run Program
 
