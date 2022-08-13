@@ -1,8 +1,8 @@
-# C GUIDELINES
-These C Guidelines (style guide) help the community focus on the code's intent and work together with a minimum of friction.
+# C-Plus-Plus GUIDELINES
+These C-Plus-Plus Guidelines (style guide) help the community focus on the code's intent and work together with a minimum of friction.
 
 ## PURPOSE
-These C Guidelines help developers who are new to the community and want to contribute to the itsme-subid repos.
+These C-Plus-Plus Guidelines help developers who are new to the community and want to contribute to the itsme-subid repos.
 
 ## PHILOSOPHY
 A few philosophical guidelines can stand in place of a thousand narrow rules. These guidelines are not intended as absolute (black or white) truths but rather lenses to focus our vision when faced with subtle shades of ambiguity.
