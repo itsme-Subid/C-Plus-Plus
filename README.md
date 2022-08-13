@@ -9,7 +9,7 @@ Install `G++` to Compile the C++ Programs
 
 - Get the latest version of GCC via [tdm-gcc](https://jmeubank.github.io/tdm-gcc/), which provides up-to-date native builds of `G++`, tdm-gcc, and other helpful C/C++ tools and libraries. You can download the latest installer from the tdm page or use this [link to the installer](https://jmeubank.github.io/tdm-gcc/).
 
-- Follow the Installation instructions on the [tdm-gcc](https://jmeubank.github.io/tdm-gcc/) website to install GCC. Take care to run actual tdm-gcc executable.
+- Follow the Installation instructions on the [tdm-gcc](https://jmeubank.github.io/tdm-gcc/) website to install G++. Take care to run actual tdm-gcc executable.
 
 ## Check your G++ installation
 To check that your GCC tools are correctly installed and available, open a new Command Prompt and type:
